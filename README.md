@@ -1,8 +1,14 @@
-# Getick-deps
-  Getick - Ta procurando pra onde ir hoje?  A gente te mostra.
+#Getick-deps
+
+Getick - Ta procurando pra onde ir hoje?  A gente te mostra.
   
+##Descrição
+
+A Getick é a sua conexão com os melhores eventos. Aqui você fica por dentro do que está rolando e garante seu ticket. 
+
 ##Arquitetura
 ###Diagrama
+
 ![Diagrama](diagrama.png)
 
 ##Tecnologias
