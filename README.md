@@ -3,7 +3,7 @@
   
 ##Arquitetura
 ###Diagrama
-imagem
+![Diagrama](diagrama.png)
 
 ##Tecnologias
 
