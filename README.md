@@ -1,10 +1,10 @@
 # Getick-deps
   Getick - Ta procurando pra onde ir hoje?  A gente te mostra.
   
-##Arquitetura
+###Arquitetura
 imagem
 
-##Tecnologias
+###Tecnologias
 
 * PHP - Versão 5.9.6 - Linguagem utilizada para o desenvolvimento do projeto.
 * MySQL - Versão 5.7 - Banco utilizado no projeto.
