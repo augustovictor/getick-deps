@@ -12,5 +12,19 @@
 * Trello - Gerenciador das tarefas da equipe.
 * GitHub - Gerenciador de versões do projeto.
 
+##Links
+###Php
+* http://php.net/
+
+###MySQL
+* https://www.mysql.com/
+
+###Trello
+* https://trello.com/
+
+###GitHub
+* https://github.com/
+* http://git-scm.com/
+
 
 
