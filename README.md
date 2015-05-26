@@ -9,7 +9,7 @@ A Getick é a sua conexão com os melhores eventos. Aqui você fica por dentro d
 ##Arquitetura
 ###Diagrama
 
-![Diagrama](diagrama.png)
+![Diagrama](diagrama2.png)
 
 ##Tecnologias
 
